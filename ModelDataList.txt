@@ -1,0 +1,9 @@
+clim7.nc   reference baseline (climatology sst forcing)
+conv_hh7.nc Exphh results
+conv_lh7.nc Explh results
+ic.gamil.180x80x26.0011-01-01-00000.nc a file provide hyam and hybm (model level to pressure level)
+mean_0715_0825_at.nc Expcp  atmospheric results
+mean_0715_0825.nc atmospheric reference baseline of Expcp
+sst-0715_0825_at.nc Expcp sst results
+sst-0715_0825.nc Expcp sst baseline
+sst_clim_std.nc the sst standard deviation used to construct SST forcing
