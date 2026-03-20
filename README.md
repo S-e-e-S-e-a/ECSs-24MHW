@@ -11,7 +11,7 @@ This repository provides the codes, figures, and data associated with the paper.
   Contains the figures shown in the paper.
 
 - **Data**  
-  Model data of the paper is available at: 10.6084/m9.figshare.31820290. A brief dicription is provided in here.
+  Model data of the paper is available at: 10.6084/m9.figshare.31820290. A brief description is provided here (ModelDataList.txt).
 
 ## 📊 Data Availability
 
