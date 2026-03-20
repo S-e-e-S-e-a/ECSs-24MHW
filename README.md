@@ -10,8 +10,8 @@ This repository provides the codes, figures, and data associated with the paper.
 - **Fig/**  
   Contains the figures shown in the paper.
 
-- **Data/**  
-  Model data of the paper.
+- **Data**  
+  Model data of the paper is available at: 10.6084/m9.figshare.31820290. A brief dicription is provided in here.
 
 ## 📊 Data Availability
 
