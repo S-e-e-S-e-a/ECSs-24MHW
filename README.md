@@ -1,6 +1,6 @@
-# Paper Code Repository
+# Paper Materials Repository
 
-This repository provides the codes and figures associated with the manuscript.
+This repository provides the codes, figures, and data associated with the paper.
 
 ## 📂 Repository Structure
 
@@ -8,14 +8,12 @@ This repository provides the codes and figures associated with the manuscript.
   Contains all the scripts used for data processing and figure plotting in the paper.
 
 - **Fig/**  
-  Contains the figures shown in the manuscript.
+  Contains the figures shown in the paper.
+
+- **Data/**  
+  Model data of the paper.
 
 ## 📊 Data Availability
 
-All datasets used in this study are publicly available.  
-You can download them from the corresponding links provided in the paper.
-
----
-
-**Contact:**  
-For questions or requests, please open an issue or contact the corresponding author.
+All datasets used in this study are publicly available or provided herein. 
+They can be accessed via the corresponding links given in the paper and in this section.
