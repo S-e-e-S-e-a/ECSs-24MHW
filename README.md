@@ -1,6 +1,6 @@
 # Paper Materials Repository
 
-This repository provides the codes, figures, and data associated with the paper.
+This repository provides the codes, figures, and data associated with the paper "A teleconnection pathway linking cross-basin extremes triggered the record-breaking 2024 marine heatwave in the East China Seas" DOI: https://doi.org/10.1088/1748-9326/ae5314.
 
 ## 📂 Repository Structure
 
