@@ -7,3 +7,5 @@ mean_0715_0825.nc atmospheric reference baseline of Expcp
 sst-0715_0825_at.nc Expcp sst results
 sst-0715_0825.nc Expcp sst baseline
 sst_clim_std.nc the sst standard deviation used to construct SST forcing
+
+data is available at: 10.6084/m9.figshare.31820290
